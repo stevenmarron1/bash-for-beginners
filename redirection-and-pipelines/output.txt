@@ -1,7 +1,8 @@
-total 8
--rw-rw-rw- 1 vscode vscode   0 Jan 17 18:03 error.txt
--rw-rw-rw- 1 vscode vscode   0 Jan 17 18:10 output.txt
--rw-rw-rw- 1 vscode vscode 415 Jan 17 17:37 part1.txt
--rw-rw-rw- 1 vscode vscode 262 Jan 17 17:37 part2.txt
--rw-rw-rw- 1 vscode vscode   0 Jan 17 17:54 part3.txt
--rw-rw-rw- 1 vscode vscode   0 Jan 17 17:56 part4.txt
+total 16
+-rw-r--r-- 1 gitpod gitpod  53 Jun  5 19:15 error.txt
+-rw-r--r-- 1 gitpod gitpod   0 Jun  5 20:19 output.txt
+-rw-r--r-- 1 gitpod gitpod 677 Jun  5 19:15 paragrah.txt
+-rw-r--r-- 1 gitpod gitpod 415 Jun  5 19:15 part1.txt
+-rw-r--r-- 1 gitpod gitpod 262 Jun  5 19:15 part2.txt
+-rw-r--r-- 1 gitpod gitpod   0 Jun  5 19:15 part3.txt
+-rw-r--r-- 1 gitpod gitpod   0 Jun  5 19:15 part4.txt
