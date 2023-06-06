@@ -2,4 +2,7 @@
 
 # Welcome to your first Bash Script
 
-echo 'Hello World!'
+hello_message='Welcome to the bash script!'
+current_dir=$(pwd)
+
+echo "$hello_message you are in $current_dir"
